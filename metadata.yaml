@@ -1,0 +1,29 @@
+_repo: The-Man-Without-a-Memory_35516
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marchmont, Arthur W.
+    alias: Marchmont, Arthur Williams
+    birthdate: 1852
+    deathdate: 1923
+    gutenberg_agent_id: '37728'
+    url: http://www.gutenberg.org/2009/agents/37728
+description: ''
+gutenberg_issued: '2011-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35516'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'British -- Germany -- Fiction'
+- !lcsh 'Spy stories'
+- !lcc 'PR'
+- !lcsh 'World War, 1914-1918 -- Fiction'
+title: The Man Without a Memory
+url: http://www.gutenberg.org/ebooks/35516
